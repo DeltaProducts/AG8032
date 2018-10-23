@@ -1,6 +1,6 @@
 the package install and run way
 1. dekg -i *.deb
-2. cd /broadcom/ofdpa/
+2. cd /usr/bin/ofdpa/
 3. based on the ag8032 mode to touch mode file
 for 104 port mode 
 	eg: touch 104p.mode 
